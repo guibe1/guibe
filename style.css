@@ -5,8 +5,14 @@ body {
 }
 
 header {
-    bonder-bottom: solid 2px rgb(112, 10, 10);
+    bonder-bottom: solid 2px rgb(255, 0, 0);
     padding: 20px;
   font-size: 32px;
-  color: rgb(112, 10, 10);
+  color: rgb(255, 0, 0);
+}
+
+section {
+  background:rgba(143, 5, 5, 0.568)  ;
+  padding-bottom: 80px ;
+  padding-top: 80px;
 }
