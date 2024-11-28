@@ -15,5 +15,6 @@ section {
   background:rgba(143, 5, 5, 0.568)  ;
   padding-bottom: 80px ;
   padding-top: 80px;
- display: flex;
+  display: flex;
+  align-items: center;
 }
